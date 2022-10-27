@@ -1,0 +1,40 @@
+var quiz = [
+  {
+    'question': 'What is Flutter?',
+    '1': 'Programming language',
+    '2': 'Software/Application',
+    '3': 'Framework',
+    '4': 'Language',
+    'answer': 3,
+  },
+  {
+    'question': 'What is Dart?',
+    '1': 'Game',
+    '2': 'Programming Language',
+    '3': 'Framework',
+    '4': 'Software Application',
+    'answer': 2,
+  },
+  {
+    'question': 'Application works/runs on which platform?',
+    '1': 'Mobile(IOS/Android)',
+    '2': 'Web(Website)',
+    '3': 'Windows',
+    '4': 'Any Platfrom',
+    'answer': 4
+  },
+  {
+    'question': 'Where is programming used?',
+    '1': 'To make applications(website, mobile app, windows software, etc)',
+    '2': 'To functionalize any technology',
+    '3': 'To make website',
+    '4': 'To make mobile applications',
+    'answer': 2,
+  },
+  {'question': '', '1': '', '2': '', '3': '', '4': ''},
+  {'question': '', '1': '', '2': '', '3': '', '4': ''},
+  {'question': '', '1': '', '2': '', '3': '', '4': ''},
+  {'question': '', '1': '', '2': '', '3': '', '4': ''},
+  {'question': '', '1': '', '2': '', '3': '', '4': ''},
+  {'question': '', '1': '', '2': '', '3': '', '4': ''},
+];
